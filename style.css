@@ -1,0 +1,35 @@
+h1 {
+  color: white;
+  background: royalblue;
+  padding: 8px;
+}
+
+/* # Stands for ID Attribute */
+#id3 {
+  background: gold;
+}
+
+#id2 {
+  background: silver;
+}
+
+/** Stands for Class Attribute */
+.p1 {
+  background: lightcyan;
+  padding: 16px;
+  font-size: large;
+  font-style: italic;
+}
+
+.p2 {
+  background: lightgreen;
+  padding: 16px;
+  font-size: large;
+  font-style: italic;
+}
+
+#pid1,
+#pid2,
+#pid3 {
+  background: lightgreen;
+}
