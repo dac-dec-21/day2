@@ -1,0 +1,29 @@
+html,
+body {
+  margin: 0px;
+}
+
+.header {
+  background: darkslategrey;
+  color: white;
+  margin: 0px;
+  padding: 16px;
+}
+
+.item {
+  background: lightcoral;
+  height: 200px;
+  margin-bottom: 2px;
+
+  padding-left: 16px;
+  padding-right: 16px;
+
+  font-size: 16px;
+  font-weight: bold;
+  font-family: cursive;
+  color: white;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

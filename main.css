@@ -1,0 +1,20 @@
+/*
+ * ELEMENT SELECTOR
+ * ID SELECTOR :: SPL CHAR #
+ * CLASS SELECTOR :: SPL CHAR .
+*/
+h1 {
+  background: tomato;
+}
+
+/** ID SLECTOR :: THIS IS NOT REUSABLE **/
+#id1 {
+  background: green;
+}
+
+/** 99% **/
+/** CLASS SELECTOR **/
+/* REUSABILITY */
+.cls1 {
+  background: gold;
+}

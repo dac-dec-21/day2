@@ -1,0 +1,7 @@
+.header {
+  color: white;
+  background: royalblue;
+
+  margin: 8px; /** BETWEEN THE ELEMNTSs */
+  padding: 8px; /** WITHING BOX **/
+}
